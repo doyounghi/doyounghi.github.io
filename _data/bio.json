@@ -1,15 +1,15 @@
 {
   "basics": {
     "name": "Doyoung Kim",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/2323.png",
+    "label": "Entry Data Analyst",
+    "picture": "https://doyounghi.github.io/images/2313 (2).jpg",
     "email": "doyoungk@hawaii.edu",
     "phone": "808-382-1288",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "website": "https://doyounghi.github.io",
+    "summary": "I am studying for a B.S. in Mathematics in the Department of Natural Science at the University of Hawaii. I expect to graduate in fall, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
+      "address": "1615 Emerson St Apt D",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,41 +17,38 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "doyounghi",
+        "url": "http://github.com/doyounghi"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Doyoungk",
+        "url": "http://linkedin.com/in/doyoung-kim-77980a172"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+    
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Statistics and Probability",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Numerical Analysis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Data Analysis",
+      "keywords": [
+      ]
+    }
+    
+     {
+      "name": "Data Visualization",
       "keywords": [
       ]
     }
@@ -66,7 +63,8 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "Python"
       ]
     },
     {
