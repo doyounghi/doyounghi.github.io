@@ -4,7 +4,6 @@ type: project
 image: images/CanSat Logo - Color.png
 title: CANSAT
 permalink: projects/CANSAT
-# All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
   - Raspberry pie 
