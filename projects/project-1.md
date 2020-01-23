@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/SmartAlawai.jpg
 title: Alawai River 2014 Data Analysis
-permalink: projects/micromouse
+permalink: projects/Smart Alawai
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-23
 labels:
