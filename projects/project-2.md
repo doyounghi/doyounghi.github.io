@@ -4,7 +4,7 @@ type: project
 image: images/"CanSat Logo - Color.png"
 title: CANSAT
 permalink: projects/CANSAT
-date: 2020-01-23
+date: 2018-01-23
 labels:
   - Raspberry pie 
   - Python 3
