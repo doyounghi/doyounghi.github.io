@@ -4,7 +4,7 @@ type: project
 image: images/SmartAlawai.jpg
 title: Alawai River 2014 Data Analysis
 permalink: projects/Smart Alawai
-date: 2020-01-23
+date: 2019-12-23
 labels:
   - Data Analysis
   - Data Visualization
