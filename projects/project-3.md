@@ -2,60 +2,51 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-# All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+title: Huffman Trees
+permalink: projects/HuffmanTrees
+date: 2019-11/22
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Java
+  - Computer Science
+  - Binary Tree
+summary: A Binary Tree code I wrote for ICS 211.
 ---
+  As an assignment for ICS 211 class in University of Hawaii at Manoa, I achieved Java Program Huffman Tress to encode and decode files. It was written in Eclipse. The file is made of several different classes including act as encorder, decorder, compressor, decompressor, and J-unit tester. 
+  
+  Through this assignment, I improved my comprehension of node concepts and binary-reading skills in Java. To complete the assignment, it took two and three days and solved technical problems with peers in the class. Since this assignment was considered the most difficult assignment for the class, I emphasized the importance of the group work to myself.
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Huffman-tree-Fig5.24.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+  
 
-To give you a flavor of the game, here is an excerpt from one run:
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+```js
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+// if args.length == 0
+    if (args.length == 0) {
+      // system.out.println usage message
+      System.out.println("Usage: java H11Huffman <filename>");
+    } else {
+      // Get the filename
+      String filename = args[0];
+      System.out.println(filename);
+      // check the last extenstion
+      int index = filename.indexOf(Huffman.HUFF_EXT);
+      if (index != -1) {
+        // if Huffman.HUFF_EXT do decompression
+        String outputName = filename.substring(0, index);
+         System.out.println(outputName);
+        //  create a file output stream with the name without .huff
+        FileOutputStream out = new FileOutputStream(outputName) ;
+        //  create a file input stream from the filename
+        FileInputStream in = new FileInputStream(filename);
+        //  call Huffman.decompress(fileInput, fileOutput)
+        Huffman.decompress(in, out);
+        out.flush();
+        out.close();
+        
+```
 
