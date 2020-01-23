@@ -11,6 +11,7 @@ labels:
   - Engineering
 summary: A rocket competition held by NaSa.
 
+---
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Acclerometer.PNG">
