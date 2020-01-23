@@ -1,25 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/CanSat Logo - Color.png
+title: CANSAT
+permalink: projects/CANSAT
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-01-23
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
----
+  - Raspberry pie 
+  - Python 3
+  - Engineering
+summary: A rocket competition held by NaSa.
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+  CANSAT is a year-long competition held by the National Aeronautics and Space Administration. Various groups of 7 students who are interested in Science and Engineering from all over the world participated in the competition. It was required in the competition to research certain needed information, design a small rocket and develop it to successfully launch into the high altitude and protect an egg inside under the high pressure and temperature.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+  For my team, I worked as the researcher for mechanical parts. I communicated with teammates, who worked for the overall design of the rocket and the budget situation, and researched for affordable units, notable scientific facts, and referable technologies, according to what we discussed.
+  
+  On the stage Preliminary Design Review (PDR), we needed to present our ideas and convince a group of judges via teleconference. During the review, it was required to explain about the systematical choices such as the devices and units and codes that we decided to utilize, the electrical choices such as the sensors that we put in the rocket for the temperature and pressure, and the mechanical reasons about release and fail-safe mechanisms.
