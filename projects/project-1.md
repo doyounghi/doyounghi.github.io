@@ -14,10 +14,10 @@ summary: As a technical research assistant, I contributed to analyze the data ob
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/Sensonrs location.png">
+  <img class="ui image" src="../images/Mean velocities plot Westpng.png">
+  <img class="ui image" src="../images/Plot of Pressures with no tides.png">
+  <img class="ui image" src="../images/Salinity plot.png">
 </div>
 
   SMART ALAWAI PROJECT is a local project that faculties from schools/universities in Oahu and (under)graduates in University of Hawaii at Manoa work for the improvement of water quality of Alawai River in Honolulu. As a project member, I and my supervsior Associate Professor Brian Powell in University of Hawaii at manoa analyzed the data obtained by the sensors deployed in each different location of Alawai River in 2014 Spring. The data consist of several environmental sections stored as dictionaries: Temperature, Salinity, Pressure, and etc. Each sensor recored the data in every five minutes for 4 months. 
