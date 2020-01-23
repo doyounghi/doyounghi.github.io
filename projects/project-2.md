@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CanSat Logo - Color.png
+image: images/"CanSat Logo - Color.png"
 title: CANSAT
 permalink: projects/CANSAT
 date: 2020-01-23
@@ -10,6 +10,15 @@ labels:
   - Python 3
   - Engineering
 summary: A rocket competition held by NaSa.
+
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/Acclerometer.PNG">
+  <img class="ui image" src="../images/Blueprint.PNG">
+  <img class="ui image" src="../images/Suspension.PNG">
+  <img class="ui image" src="../images/Umbrella Method.PNG">
+</div>
+
 
   CANSAT is a year-long competition held by the National Aeronautics and Space Administration. Various groups of 7 students who are interested in Science and Engineering from all over the world participated in the competition. It was required in the competition to research certain needed information, design a small rocket and develop it to successfully launch into the high altitude and protect an egg inside under the high pressure and temperature.
 
