@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Huffman Trees
+title: "Huffman Trees"
 permalink: projects/HuffmanTrees
 date: 2019-11/22
 labels:
