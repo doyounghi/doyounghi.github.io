@@ -16,8 +16,11 @@ summary: A Binary Tree code I wrote for ICS 211.
 
 
   As an assignment for ICS 211 class in University of Hawaii at Manoa, I achieved Java Program Huffman Tress to encode and decode files. It was written in Eclipse. The file is made of several different classes including act as encorder, decorder, compressor, decompressor, and J-unit tester. 
+
+  As pointers are important in Computer Programming, this assignment helped me to understand how nodes work in Java and how algorithms are built and implemented. Through this assignment, I improved my comprehension of node concepts and binary-reading skills in Java
   
-  Through this assignment, I improved my comprehension of node concepts and binary-reading skills in Java. To complete the assignment, it took two and three days and solved technical problems with peers in the class. Since this assignment was considered the most difficult assignment for the class, I emphasized the importance of the group work to myself.
+  .To complete the assignment, it took two and three days and solved technical problems with peers in the class. Since this assignment was considered the most difficult assignment for the class, I emphasized the importance of the group work to myself.
+
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/Huffman-tree-Fig5.24.png">
