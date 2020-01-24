@@ -96,14 +96,14 @@
       "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [ICS311 (Algorithm),
-                  ICS314 (Soft Engineering),
-                  MATH372 (Probability and Statistics),
-                  MATH311, MATH411 (Linear Algebra),
-                  MATH302, MATH402 (Differential Equations),
-                  MATH331 (Introduction to Real Analysis),
-                  MATH442 (Vector Analysis)
-                  MATH407 (Numerical Analysis)
+      "courses": ["ICS311 (Algorithm)",
+                  "ICS314 (Soft Engineering)",
+                  "MATH372 (Probability and Statistics)",
+                  "MATH311, MATH411 (Linear Algebra)",
+                  "MATH302, MATH402 (Differential Equations)",
+                  "MATH331 (Introduction to Real Analysis)",
+                  "MATH442 (Vector Analysis)",
+                  "MATH407 (Numerical Analysis)"
       ]
     }
   ],
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "company": "Eggs n things"
+      "company": "Eggs n things",
       "position": "Server",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2016-06-01",
@@ -144,7 +144,7 @@
       "highlights": [
         "Clean Hawaii Nature Center so that visitors can enjoy hiking."
       ]
-    },
+    }
   
   ],
   "awards": [
