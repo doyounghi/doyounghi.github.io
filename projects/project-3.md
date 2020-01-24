@@ -4,7 +4,7 @@ type: project
 image: images/Huffman.png
 title: Huffman Trees
 permalink: projects/HuffmanTrees
-date: 2019-11/22
+date: 2020-01/23
 labels:
   - Java
   - Computer Science
