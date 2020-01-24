@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/"CanSat Logo - Color.png"
+image: images/"Cansat_key_visual_pillars.jpg"
 title: CANSAT
 permalink: projects/CANSAT
 date: 2018-01-23
