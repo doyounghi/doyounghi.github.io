@@ -4,7 +4,7 @@ type: project
 image: images/Cansat_key_visual_pillars.jpg
 title: CANSAT
 permalink: projects/CANSAT
-date:  2019-12-23
+date:  2020-01-23
 labels:
   - Raspberry pie 
   - Python 3
