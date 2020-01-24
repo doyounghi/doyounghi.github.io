@@ -26,3 +26,6 @@ summary: A rocket competition held by NaSa.
   For my team, I worked as the researcher for mechanical parts. I communicated with teammates, who worked for the overall design of the rocket and the budget situation, and researched for affordable units, notable scientific facts, and referable technologies, according to what we discussed.
   
   On the stage Preliminary Design Review (PDR), we needed to present our ideas and convince a group of judges via teleconference. During the review, it was required to explain about the systematical choices such as the devices and units and codes that we decided to utilize, the electrical choices such as the sensors that we put in the rocket for the temperature and pressure, and the mechanical reasons about release and fail-safe mechanisms.
+
+
+You can learn more at the [CANSAT Website](http://www.cansatcompetition.com/).
