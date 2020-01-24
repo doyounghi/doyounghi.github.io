@@ -32,117 +32,120 @@
     {
       "name": "Statistics and Probability",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Applied Mathematics",
+        "R",
+        "Analytic Perspective"
       ]
     },
     {
       "name": "Numerical Analysis",
       "keywords": [
+        "Application of Calculus",
+        "MATLAB"
       ]
     },
     {
       "name": "Data Analysis",
       "keywords": [
+        "Python",
+        "Comparison",
+        "Criticalness"
       ]
     },
     
      {
       "name": "Data Visualization",
       "keywords": [
+        "Clearness",
+        "Presentation",
+        "Data Comprehension"
       ]
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp",
-        "Python"
+        "SQL",
+        "Python",
+        "Mathematics"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Window",
+        "Anaconda",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Microsoft Access",
+        "Microsoft Office"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Mathematics (expected Fall, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
+      "courses": [ICS311 (Algorithm),
+                  ICS314 (Soft Engineering),
+                  MATH372 (Probability and Statistics),
+                  MATH311, MATH411 (Linear Algebra),
+                  MATH302, MATH402 (Differential Equations),
+                  MATH331 (Introduction to Real Analysis),
+                  MATH442 (Vector Analysis)
+                  MATH407 (Numerical Analysis)
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "University of Hawaii at Manoa",
+      "position": "Entry Data Analyst",
+      "website": "http://www.smart-alawai.manoa.hawaii.edu/",
+      "startDate": "2018-08-01",
+      "endDate": "2019-12-31",
+      "summary": "Data Analysis Assistatnt",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Visualize and Analyze data obtained in Alawai River in Honolulu,
+        "Lead the strong conclusion with effective comparisons"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Eggs n things"
+      "position": "Server",
       "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "startDate": "2016-06-01",
+      "endDate": "Present",
+      "summary": "a responsible server",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Communicate with customers to ensure they are satisfied",
+        "Help coworkers to enhance the teamwork efficiency"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Blue Zones Project Hawaii ",
+      "website": "https://info.bluezonesproject.com/bzphawaii",
+      "position": "Volunteer",
+      "startDate": "2019-10-21",
+      "endDate": "2019-10-21",
+      "summary": "Volunteer for cleaning Hawaii Nature Center",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Clean Hawaii Nature Center so that visitors can enjoy hiking."
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
+  
   ],
   "awards": [
     {
