@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Cansat_key_visual_pillars.jpg
+image: images/Cansat2018.png
 title: CANSAT
 permalink: projects/CANSAT
 date:  2020-01-23
@@ -13,7 +13,7 @@ summary: A rocket competition held by NaSa.
 
 ---
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Acclerometer.PNG">
   <img class="ui image" src="../images/Suspension.PNG">
 </div>

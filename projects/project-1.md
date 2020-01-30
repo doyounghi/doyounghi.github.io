@@ -12,7 +12,7 @@ labels:
 summary: As a technical research assistant, I contributed to analyze the data obtained from Alawai River in 2014 Spring.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Sensonrs location.png">
   <img class="ui image" src="../images/Mean velocities plot Westpng.png">
   <img class="ui image" src="../images/Plot of Pressures with no tides.png">

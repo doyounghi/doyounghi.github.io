@@ -22,7 +22,7 @@ summary: A Binary Tree code I wrote for ICS 211.
   .To complete the assignment, it took two and three days and solved technical problems with peers in the class. Since this assignment was considered the most difficult assignment for the class, I emphasized the importance of the group work to myself.
 
 
-<div class="ui small rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Huffman-tree-Fig5.24.png">
 
   
