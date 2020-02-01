@@ -14,15 +14,23 @@ summary: As a technical research assistant, I contributed to analyze the data ob
 
 <div class="ui large rounded images">
   <img class="ui image" src="../images/Sensonrs location.png">
-  <img class="ui image" src="../images/Mean velocities plot Westpng.png">
+</div>
+
+# Description
+
+  SMART ALAWAI PROJECT is a local project that faculties from schools/universities in Oahu and (under)graduates in University of Hawaii at Manoa work for the improvement of water quality of Alawai River in Honolulu. As a project member, I and my supervsior Associate Professor Brian Powell in University of Hawaii at manoa analyzed the data obtained by the sensors deployed in each different location of Alawai River in 2014 Spring. The data consist of several environmental sections stored as dictionaries: Temperature, Salinity, Pressure, and etc. Each sensor recored the data in every five minutes for 4 months. 
+
+# Role
+<div class="ui large rounded images">
   <img class="ui image" src="../images/Plot of Pressures with no tides.png">
   <img class="ui image" src="../images/Salinity plot.png">
 </div>
 
-  SMART ALAWAI PROJECT is a local project that faculties from schools/universities in Oahu and (under)graduates in University of Hawaii at Manoa work for the improvement of water quality of Alawai River in Honolulu. As a project member, I and my supervsior Associate Professor Brian Powell in University of Hawaii at manoa analyzed the data obtained by the sensors deployed in each different location of Alawai River in 2014 Spring. The data consist of several environmental sections stored as dictionaries: Temperature, Salinity, Pressure, and etc. Each sensor recored the data in every five minutes for 4 months. 
-  
   The main purpose of the analysis was to find the behavior of Alawai after discharging by comparing the data with the discharge data. The analysis was made of three sections: Observational data, Model Data, and Comparison. In the first section, I broke down each dictionaries of the data from each sensor and analyzed them with visualiziation with colormeshes and xy plot graphs. In the second section, I analyzed the model data, looking at how close the model is to the actual observed data. In the last section, I made the comparison between the observation data and model data, to explain how successfully the machine predicted
-
+# Performance
+<div class="ui large rounded images">
+<img class="ui image" src="../images/Mean velocities plot Westpng.png">
+</div>
   Through this year and 9 months project, I sucessfully led the fundmental analysis to be the base for the conclusion. Moreover, I learned how to visualize and analyze the big data with Python3. As well, I could improve my understanding of the dictionary system and effective coding in Python3. 
   
 ```js
