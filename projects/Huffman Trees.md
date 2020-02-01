@@ -30,9 +30,6 @@ summary: A Binary Tree code I wrote for ICS 211.
 
 
 ```js
-
-
-// if args.length == 0
     if (args.length == 0) {
       // system.out.println usage message
       System.out.println("Usage: java H11Huffman <filename>");
@@ -54,7 +51,6 @@ summary: A Binary Tree code I wrote for ICS 211.
         Huffman.decompress(in, out);
         out.flush();
         out.close();
-        
 ```
 
 You can learn more at the [ICS211 Webstie](http://courses.ics.hawaii.edu/ics211f19-1/morea/120.trees/experience-H11.html).
