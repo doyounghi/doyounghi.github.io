@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui small left circular floated image" src="../images/what-is-the-problem.jpg">
+<img class="ui medium left circular floated image" src="../images/what-is-the-problem.jpg">
 
 In the world, we sometimes find people, including ourselves, having troubles to improve their quality in their field. It is common for people to face slumps and be depressed enough to stop their struggling. Improvement is important and strategic, whoever you are and wherever you are. For example, if you spend a lot of time in your field and cannot see any improvement in the situation, your motivation will be deprived. In other words, a progress is like a red bull to keep you motivated and your journey last.
 

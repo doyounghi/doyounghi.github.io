@@ -9,6 +9,8 @@ labels:
   - Learning
 ---
 
+<img class="ui medium left circular floated image" src="../images/Languages.jpg">
+
 # Can you understand what I am saying?
 Programming language always impresses me, regardless of what the language is. As I always have a fun to learn different languages other than my mother tongue, I think that it is like learn a new programming language. As each language has different grammars and conceives different cultures, there is the diversity in the computer programming language world.
 
