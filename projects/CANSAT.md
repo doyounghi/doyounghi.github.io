@@ -14,7 +14,7 @@ summary: A rocket competition held by NaSa.
 ---
 
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/Cansat Annual.PNG">
+  <img class="ui image" src="../images/Cansat Annual.jpg">
 </div>
 
 # Description
