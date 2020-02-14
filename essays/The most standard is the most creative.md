@@ -17,7 +17,7 @@ There is a famous Korean saying, which is "Pancakes that are garnished well are 
 
 
 
-<img class="ui medium left floated image" src="../images/fiberoo.jpg">
+<img class="ui large left floated image" src="../images/fiberoo.jpg">
 
 #   This Is All For Yourself.
 As we know code standards are important, the question comes up to our minds: "How can you know your code fit in the standards?" While coding in Java Script with IntelliJ, it will not difficult to see people using "ESLint." ESLint powerfully functions like CheckStyle in Java with Eclipse. It tells you which part of your code violates the standards. Even though the warning sign in the right top of your script will bother you at first, it will eventually lead you to the well-organized code with the warning changing to the green checkmark. Indeed, if you, at least, follow it, you can build your code in the readable ways, without wasting your time for checking your code repeatedly. In this point, if you have a thought like "I mean if my code works well, I do not have to care about the standards," you need to think that following the standards is always for you, not for other people. If you will keep your codes only to yourself, you will not even need to correct any syntax in your code. However, it is likely that you will need to make people understand your code and explain how your code works. Thus, even though to ensure the green checkmark in your code script is painful, you will need to do it for yourself.
