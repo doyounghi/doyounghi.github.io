@@ -30,7 +30,7 @@ summary: A rocket competition held by NaSa.
 # Performance
   On the stage Preliminary Design Review (PDR), we needed to present our ideas and convince a group of judges via teleconference. During the review, it was required to explain about the systematical choices such as the devices and units and codes that we decided to utilize, the electrical choices such as the sensors that we put in the rocket for the temperature and pressure, and the mechanical reasons about release and fail-safe mechanisms.
 
-  My team ended up concluding this competition at the rabk 81th.
+  My team ended up concluding this competition at the rank 81th.
 
 
 
