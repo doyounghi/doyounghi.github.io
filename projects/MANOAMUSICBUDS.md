@@ -16,8 +16,8 @@ summary: A website development team project. The website is for people who want 
   Manoa-musicbuds is an example web application where many UH students with great musical talents find others with similar tastes and compatible musical abilities. It will allow students to login and create a profile indicating their musical tastes, their musical capabilities, and their musical goals (from occasional, informal jam sessions to performing bands). The profile can also include links to YouTube videos or SoundCloud tracks with examples of their musicianship.
   
 <div class="ui large rounded images">
-  <img class="ui image" src="../images/buddies.PNG">
-  <img class="ui image" src="../images/interest.PNG">
+  <img class="ui image" src="../images/buddies.png">
+  <img class="ui image" src="../images/interest.png">
 </div>
 
 # My Role
