@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/AcousticGuitar.png
+image: images/music.png
 title: CANSAT
 permalink: projects/MANOAMUSICBUDS
 date:  2020-05-15
