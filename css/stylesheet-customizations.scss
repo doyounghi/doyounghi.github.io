@@ -7,9 +7,13 @@
 // Don't edit this file.  Put your changes in stylesheet-customizations.scss
 
 // Default background color
+
+landing {
+  background-image: url("{{ site.baseurl }}/images/background.jpg");
+}
+
 body {
   background-color: #f2f2f2;
-  background-image: url("{{ site.baseurl }}/images/background.jpg");
 }
 
 // Default background for home
