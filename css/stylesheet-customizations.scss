@@ -9,11 +9,11 @@
 // Default background color
 body {
   background-color: #f2f2f2;
+  background-image: url("{{ site.baseurl }}/images/background.jpg");
 }
 
 // Default background for home
 .home {
-  background-image: url("{{ site.baseurl }}/images/background.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
