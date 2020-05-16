@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/music.png
-title: CANSAT
+title: MANOAMUSICBUDS
 permalink: projects/MANOAMUSICBUDS
 date:  2020-05-15
 labels:
