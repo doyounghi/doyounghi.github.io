@@ -32,5 +32,5 @@ For my team, each of us ws assigned to different issues through milestone sectio
   Luckily, this project was interesting to every member in our team. We all were motivated to work together as a team. First achievement I will note is that I have learned the importance of working as a team. Understanding what issues need to be resolved and assigned to, we could make our work more efficient. Second achievement is that I have learned how to deploy the web-application through galaxy and mongo db. The most important achievement through this web-development project is that we have learned that our knowledge can help some people in the strongly technical ways.
 
 You can learn more at the [MANOAMUSICBUDS Guidelines](https://manoa-musicbubs.github.io/).
-You can see our source codes at the [mANOAMUSICBUDS Source](https://github.com/manoa-musicbubs/manoa-musicbuds-source)
+You can see our source codes at the [MANOAMUSICBUDS Source](https://github.com/manoa-musicbubs/manoa-musicbuds-source)
 
